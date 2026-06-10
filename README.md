@@ -52,4 +52,8 @@ The code is written using the Arduino framework for ESP32. It can be compiled us
 
 ### 🎥 Live Prototype Testing
 
+
+https://github.com/user-attachments/assets/6294b0c6-e3f9-4f8c-8508-4db3b5c4cbf2
+
+
 *Watch the ESP32-based control system in action. The firmware actively monitors ambient conditions to compute the dew point, regulates the Peltier cooling module, and adjusts the heat-sink fan speed to ensure efficient water condensation without thermal runaway.*
